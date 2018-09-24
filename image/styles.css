@@ -1,0 +1,27 @@
+h1{
+    color:black; 
+    font-size:12px;
+    text-align: center;
+}
+p{
+    color: red;
+}
+
+#h3 {
+    text-align: center;
+    color: blue;
+}
+.green {
+    color:green;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+ul {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 20px;
+}
